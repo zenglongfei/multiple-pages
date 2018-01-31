@@ -1,4 +1,4 @@
-# more-vue
+# vue-multiple-pages
 
 > A Vue.js project
 
